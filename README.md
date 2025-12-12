@@ -3,10 +3,8 @@
 Mod dodający polski dubbing do Helldivers 2 na PC. Projekt jest w fazie wczesnych testów i będzie rozwijany, jeśli będzie zainteresowanie.
 Dubbing nie pasuje idealnie 1:1 do napisów, bo nie ma łatwego dostępu do nich, ale staram się zachować kontekst i sens.
 
-![](https://github.com/EmilianekIce/Helldivers2-PL-Dubbing/releases/download/v0.2-alpha/0.2-alpha.mp4)
-
 ## Skąd się on wziął
-Mod powstał jako szybki prototyp, bo brakowało mi polskiego dubbingu do pełnej immersji. Na start użyłem syntezy mowy w ElevenLabs (pierwszy lepszy głos, żeby sprawdzić, czy pomysł w ogóle ma sens).
+Mod powstał jako szybki prototyp, bo brakowało mi polskiego dubbingu do pełnej immersji. Użyłem speech tp text w ElevenLabs używając specjalnie skonfigurowanego głosu z wersji angielskiej.
 
 ## Instalacja
 1. Pobierz ZIP z Releases.
@@ -21,7 +19,7 @@ Mod zawiera opcje z muzyką:
 - Przy ekstrakcji: „I’m Still Standing”
 
 ## Sugestie i pomysły
-Jeśli masz chwilę, napisz proszę, co warto poprawić i czy Twoim zdaniem jest sens to dalej rozwijać. Chętnię usłyszę propozycje, jakie kwestie powinienem dorobić w następnej kolejności lub jakie mogą dobrze lub zabawnie brzmieć.
-Jeśli masz pomysły na inne utwory albo momenty w grze, w których zmiana muzyki by była ciekawa, też chętnie je usłyszę. Publikujcie swoje komentarze w Issues! :) 
+Jeśli masz chwilę, napisz proszę, co warto poprawić. Chętnię usłyszę propozycje, jakie kwestie powinienem dorobić w następnej kolejności lub jakie mogą dobrze lub zabawnie brzmieć.
+Również eśli masz pomysły na inne utwory albo momenty w grze, w których zmiana muzyki by była ciekawa, też chętnie je usłyszę. Publikujcie swoje komentarze w Issues! :) 
 
 
