@@ -20,6 +20,6 @@ Mod zawiera opcje z muzyką:
 
 ## Sugestie i pomysły
 Jeśli masz chwilę, napisz proszę, co warto poprawić i czy Twoim zdaniem jest sens to dalej rozwijać. Najbardziej przydadzą mi się propozycje, jakie kwestie powinienem dorobić w następnej kolejności lub jakie mogą dobrze lub zabawnie brzmieć.
-Jeśli masz pomysły na inne utwory albo momenty w grze, w których zmiana muzyki by buła ciekawa, też chętnie je usłyszę.
+Jeśli masz pomysły na inne utwory albo momenty w grze, w których zmiana muzyki by była ciekawa, też chętnie je usłyszę. Publikujcie swoje komentarze w Issues! :) 
 
 
