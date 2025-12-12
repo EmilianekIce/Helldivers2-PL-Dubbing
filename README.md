@@ -3,10 +3,7 @@
 Mod dodający polski dubbing do Helldivers 2 na PC. Projekt jest w fazie wczesnych testów i będzie rozwijany, jeśli będzie zainteresowanie.
 Dubbing nie pasuje idealnie 1:1 do napisów, bo nie ma łatwego dostępu do nich, ale staram się zachować kontekst i sens.
 
-<figure class="video_container">
-  <iframe src="https://github.com/EmilianekIce/Helldivers2-PL-Dubbing/releases/download/v0.2-alpha/0.2-alpha.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
+![]([myvid/foo.mp4](https://github.com/EmilianekIce/Helldivers2-PL-Dubbing/releases/download/v0.2-alpha/0.2-alpha.mp4))
 
 ## Skąd się on wziął
 Mod powstał jako szybki prototyp, bo brakowało mi polskiego dubbingu do pełnej immersji. Na start użyłem syntezy mowy w ElevenLabs (pierwszy lepszy głos, żeby sprawdzić, czy pomysł w ogóle ma sens).
