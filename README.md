@@ -18,8 +18,15 @@ Mod zawiera opcje z muzyką:
 - Przy dropie: „Free Bird”
 - Przy ekstrakcji: „I’m Still Standing”
 
+Uwaga! Od następnego updatu muzyka będzie osbnym repo więc ta strona będzie dotyczyła tylko dubbingu. Będę również przyjmował zgłoszenia jaką muzykę powinienem dodać na serwerze discord. 
+
 ## Sugestie i pomysły
 Jeśli masz chwilę, napisz proszę, co warto poprawić. Chętnię usłyszę propozycje, jakie kwestie powinienem dorobić w następnej kolejności lub jakie mogą dobrze lub zabawnie brzmieć.
-Również eśli masz pomysły na inne utwory albo momenty w grze, w których zmiana muzyki by była ciekawa, też chętnie je usłyszę. Publikujcie swoje komentarze w Issues! :) 
+Również jeśli masz pomysły na inne utwory albo momenty w grze, w których zmiana muzyki by była ciekawa, też chętnie je usłyszę. 
+
+Możesz to zrobić na nexus: https://www.nexusmods.com/helldivers2/mods/9794
+albo
+Stworzyłem również do tego serwer discord, na którym informuję o aktualnościach, słucham opinii, pytam was o zdanie dotyczące konkretnych rzeczy i przyjmuje zgłoszenia dotyczące muzyki. Każdego zachęcam do dołączenia! 
+Link: https://discord.gg/CHQfs59Q3r
 
 
